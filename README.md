@@ -3,10 +3,11 @@ VESC Custom App for integrating a cruise control in a thumb throttle or hand thr
 
 It works as following:
 
-Short explanation:
-Giving to taps on thumbthrottle, the highest value of the second tap wil be set as the Cruise Control speed to hold. Any tap after that will stop the Cruise Control.
+__Short explanation:__
 
-Long explanation:
+Give 2 taps on thumbthrottle, second tap within 0.2 seconds, the highest value of the second tap wil be set as the Cruise Control speed to hold. Any tap after that will stop the Cruise Control.
+
+__Long explanation:__
 
 1-Give some throttle (Going from STATE_IDLE to STATE_THROTTLE_1)
 
@@ -25,3 +26,6 @@ Long explanation:
 I will make a flowchart to make it more visual.
 
 ## Building (Linux) ##
+
+
+
