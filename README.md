@@ -5,7 +5,7 @@ It works as following:
 
 __Short explanation:__
 
-Give 2 taps on thumbthrottle, second tap within 0.2 seconds, the highest value of the second tap wil be set as the Cruise Control speed to hold. Any tap after that will stop the Cruise Control.
+Give 2 taps on the thumb throttle, second tap within 0.2 seconds, the highest value of the second tap wil be set as the Cruise Control speed to hold. Any tap after that will stop the Cruise Control.
 
 __Long explanation:__
 
