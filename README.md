@@ -27,5 +27,5 @@ I will make a flowchart to make it more visual.
 
 ## Building (Linux) ##
 
-__Warning: Do not forget to set the right hardware in conf_general.h, otherwise you may destroy your VESC Esc.__
+__Warning: Do not forget to set the right hardware in conf_general.h, otherwise you may destroy or brick your VESC Esc.__
 
