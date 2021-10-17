@@ -13,4 +13,6 @@ It works as following:
 
 5-Throtthle = 0 again. If in step 4 the maximum set throttle is higher than 0.3 then the Cruise Control is on and this value is set as duty cycle (STATE_THROTTLE_4). If the throttle was lower than 0.3 go back to step 1 (STATE_IDLE)
 
-6-Any throttle input after step 5 will turn off the Cruise Control and 
+6-Any throttle input after step 5 will turn off the Cruise Control and go to STATE_THROTTLE_5
+
+7-If throttle is 0 than go back to step 1
