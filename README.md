@@ -4,6 +4,9 @@ __Use at your own risk and verify the software in your specific application and 
 
 # VESC Cruisecontrol
 
+Video:
+https://youtu.be/lclRbZko9Us
+
 VESC Custom App for integrating a cruise control in a thumb throttle or hand throttle connected to the ADC.
 
 It works as following:
